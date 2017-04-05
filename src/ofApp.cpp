@@ -2,7 +2,6 @@
 
 //--------------------------------------------------------------
 // Initiate Level, set hero, world and screen position
-// check
 void ofApp::setup() {
 	ofHideCursor();
 	resolution = 50;
