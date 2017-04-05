@@ -1,0 +1,12 @@
+.vs
+bin/*
+obj
+addons.make
+icon.rc
+*.sln
+*.VC.db
+*.vcxproj
+*.filters
+*.user
+*.opendb
+!bin/data
